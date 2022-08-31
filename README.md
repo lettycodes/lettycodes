@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Letícia, I'm from Brazil 🇧🇷 I am currently studying to become a Java Full Stack developer at Generation Brazil.
+My name is Letícia, I'm from Brazil 🇧🇷 and I am currently studying to become a Java Full Stack developer at Generation Brazil.
 
 I'm quite curious and I really like to learn new things, so I'm always studying something.
 
