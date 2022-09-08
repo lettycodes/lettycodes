@@ -4,7 +4,7 @@
 
 💻 I am currently studying to become a Java Full Stack developer at Generation Brazil.
 
-💬 For more information, hit me up at LinkedIn.
+💬 For more information, hit me up on LinkedIn.
 
 ----
 
