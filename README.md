@@ -23,7 +23,7 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lettycodes&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lettycodes&theme=synthwave&show_icons=true)
 
 ---
 
