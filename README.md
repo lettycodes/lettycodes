@@ -21,8 +21,8 @@
 
 ---
 
-<div align="center"><h2>⭐ My GitHub informations</h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lettycodes&theme=synthwave&show_icons=true)</div>
+## ⭐ My GitHub informations
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lettycodes&theme=synthwave&show_icons=true)
 
 ---
 
