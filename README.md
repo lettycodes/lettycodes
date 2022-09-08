@@ -1,4 +1,4 @@
-## 💜 Hey there, my name is <strong>{Letícia}!</strong>
+## 💜 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B282F7&width=435&lines=Hi+there%2C+I'm+Let%C3%ADcia!+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
 
 > I'm from Brazil 🇧🇷
 
@@ -22,7 +22,7 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ My GitHub informations
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lettycodes&theme=synthwave&show_icons=true)
 
 ---
