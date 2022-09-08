@@ -8,7 +8,7 @@
 
 ----
 
-<div align="center"><h3>What I'm learning 📚💜</h3>
+<div align="center"><h2>What I'm learning 📚💜</h2>
 
 <code><img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 <code><img alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
