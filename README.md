@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Letícia}!</strong>
+## 💜 Hey there, my name is <strong>{Letícia}!</strong>
 
 > I'm from Brazil 🇧🇷
 
