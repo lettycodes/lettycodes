@@ -4,7 +4,7 @@
 
 💻 I am currently studying to become a Java Full Stack developer at Generation Brazil.
 
-🎈 I speak Brazilian Portuguese and English.
+🎈 I speak Portuguese and English.
 
 😄 Pronouns: she/her.
 
