@@ -4,6 +4,10 @@
 
 💻 I am currently studying to become a Java Full Stack developer at Generation Brazil.
 
+🎈 I speak Brazilian Portuguese and English.
+
+😄 Pronouns: she/her.
+
 💬 For more information, hit me up on LinkedIn.
 
 ----
