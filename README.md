@@ -1,8 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A565F7&width=435&lines=Hi+there%2C+I'm+Let%C3%ADcia!+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
 
-> I am from Brazil 🇧🇷
+> I'm from Brazil 🇧🇷
 
-- 💻 I am currently studying to become a Java Full Stack developer at Generation Brazil.
+- 💻 I'm currently studying to become a Java Full Stack developer at Generation Brazil.
 - 🎈 I speak Portuguese and English.
 - 😄 Pronouns: she/her.
 - 💬 For more information, hit me up on LinkedIn.
