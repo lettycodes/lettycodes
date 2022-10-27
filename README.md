@@ -4,7 +4,7 @@
 
 <p>&nbsp;</p>
 
-## 💖 Sobre mim:
+## 💖🌼 About me:
 
 ```javascript
 
