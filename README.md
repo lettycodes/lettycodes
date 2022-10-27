@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A565F7&width=435&lines=Hi+there%2C+I'm+Let%C3%ADcia!+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
 
-<img align='right' src="https://im4.ezgif.com/tmp/ezgif-4-e4f94038ca.gif" width="400" />
+<img align='right' src="https://i.imgur.com/TBk2y6T.gif" width="400" />
 
 <p>&nbsp;</p>
 
