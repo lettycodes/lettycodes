@@ -21,6 +21,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lettycodes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lettycodes&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
+<br>
 <div align="center">
 <img alt="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" />
 <img alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
