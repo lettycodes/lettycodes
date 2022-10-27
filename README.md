@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A565F7&width=435&lines=Hi+there%2C+I'm+Let%C3%ADcia!+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
 
  
-<img align='right' src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-7.gif" width="400" />
+<img align='right' src="https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif" width="400" />
 
 <p>&nbsp;</p>
 
