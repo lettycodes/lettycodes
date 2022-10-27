@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A565F7&width=435&lines=Hi+there%2C+I'm+Let%C3%ADcia!+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
 
  
-<img align='right' src="https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif" width="400" />
+<img align='right' src="https://i.gifer.com/origin/65/65bb27175ede1be9a6c1d4bb38aad19a_w200.gif" />
 
 <p>&nbsp;</p>
 
