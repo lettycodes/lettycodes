@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A565F7&width=435&lines=Hi+there%2C+I'm+Let%C3%ADcia!+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
 
  
-<img align='right' src="https://giffiles.alphacoders.com/125/12520.gif" width="350" />
+<img align='right' src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-7.gif" width="400" />
 
 <p>&nbsp;</p>
 
@@ -24,7 +24,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lettycodes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lettycodes&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-<br>
 <div align="center">
 <img alt="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" />
 <img alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
