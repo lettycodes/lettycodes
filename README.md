@@ -2,7 +2,7 @@
 
 <img align='right' src="https://i.imgur.com/4mFYjkN.gif" width="400" height="279"/>
 
-<p>&nbsp;</p>
+<p>&nbsp;</p> 
 
 ## 💖🌼 About me:
 
