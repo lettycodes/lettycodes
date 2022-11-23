@@ -8,7 +8,7 @@
 
 ```javascript
 
-👩🏽‍💻 Currently looking for my job as a Java developer
+👩🏽‍💻 I'm currently studying more about Java
 
 💬 Portuguese and English
 
