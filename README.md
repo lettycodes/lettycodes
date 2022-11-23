@@ -8,7 +8,7 @@
 
 ```javascript
 
-👩🏽‍💻 Currently studying to become a Java developer at Generation Brasil
+👩🏽‍💻 Currently looking for my job as a Java developer
 
 💬 Portuguese and English
 
