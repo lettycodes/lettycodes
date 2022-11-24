@@ -16,6 +16,8 @@
 
 ✨ Pronouns: she/her
 
+🙃 A curiosity about me: I love listening to music while doing other things, especially when I'm programming
+
 ```
 # 
 
