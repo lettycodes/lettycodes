@@ -8,7 +8,7 @@
 
 ```javascript
 
-🎓 Graduated as Full-Stack Java Developer at Generation Brasil
+🎓 Graduated as Full Stack Java Developer at Generation Brasil
 
 👩🏽‍💻 Currently studying more about Java and back-end development
 
