@@ -57,8 +57,8 @@
                                                                                                                                                   
 <br>
                                                                                                                                                   
- <div align="center">
+<div align="center">
 
-  ![Snake animation](https://github.com/lettycodes/lettycodes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lettycodes/lettycodes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
