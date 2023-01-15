@@ -15,7 +15,6 @@
 <br>                                                               
   
 <li>💜 My name is Letícia, but you can call me Letty</li>
-<li>✨ Full Stack Web Developer </li>
 <li>🙆🏽‍♀️ Pronouns: she/her</li>
 <li>📌 I am from São Paulo, Brazil</li>
 <li>👩‍💻 I am tudying more about Java and back-end development</li>
