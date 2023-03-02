@@ -14,7 +14,7 @@
 <br>                                          
 <br>                                                               
   
-<li>💜 My name is Letícia, but you can call me Letty</li>
+<li>💜 My name is Letícia, but you can call me Le or Letty</li>
 <li>🙆🏽‍♀️ Pronouns: she/her</li>
 <li>📌 I'm from São Paulo, Brazil</li>
 <li>👩‍💻 I'm currently working as a Junior Software Engineer for a big three consulting firm</li>
