@@ -17,7 +17,7 @@
 <li>💜 My name is Letícia, but you can call me Le, Lelê or Letty</li>
 <li>🙆🏽‍♀️ Pronouns: she/her</li>
 <li>📌 I'm from São Paulo, Brazil</li>
-<li>👩‍💻 I'm currently working as a Junior Software Engineer for a big three consulting firm</li>
+<li>👩🏽‍💻 I'm currently working as a Junior Software Engineer for a big three consulting firm</li>
 <li>🙃 A curiosity about me: I love listening to music while doing other things, especially when I'm programming</li>                               
     
 <br>
