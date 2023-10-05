@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdnb.artstation.com/p/assets/images/images/043/163/227/original/augustin-cart-gif-lofi-final.gif?1636484521" width="30%" height="30%">
+<img src="https://cdnb.artstation.com/p/assets/images/images/043/163/227/original/augustin-cart-gif-lofi-final.gif?1636484521" width="50%" height="50%">
 </div>
 
 <p align="center">
@@ -53,11 +53,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lettycodes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lettycodes&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
                                                                                                                                                   
 <br>
                                                                                                                                                   
