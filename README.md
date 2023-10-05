@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://i.imgur.com/OqzFQ6Q.gif" width="30%" height="30%">
+<img src="https://cdnb.artstation.com/p/assets/images/images/043/163/227/original/augustin-cart-gif-lofi-final.gif?1636484521">
 </h4>
 
 <p align="center">
