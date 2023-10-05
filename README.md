@@ -1,6 +1,6 @@
-<h4 align="center">
+<div align="center">
 <img src="https://cdnb.artstation.com/p/assets/images/images/043/163/227/original/augustin-cart-gif-lofi-final.gif?1636484521" width="30%" height="30%">
-</h4>
+</div>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8C18F7&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%99%83" alt="Typing SVG" /></a>
