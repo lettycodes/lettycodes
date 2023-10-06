@@ -35,3 +35,8 @@
   <a href ="https://www.linkedin.com/in/silva-leticia/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 </div>
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lettycodes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lettycodes&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
