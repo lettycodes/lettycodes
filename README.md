@@ -8,8 +8,6 @@
 <p>👩🏽‍💻 I'm currently working as a Junior Software Engineer for a big three consulting firm</p>
 <p>⚽️ I like to watch soccer and Corinthians is my soccer team</p>
 <p>🙃 A curiosity about me: I love listening to music while doing other things, especially when I'm programming</p>                               
-    
-<br>
                                                                                                             
 </p>
 <h3 align="center">My technical skills</h3>
