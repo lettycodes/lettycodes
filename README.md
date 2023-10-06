@@ -3,11 +3,11 @@
 </p>
 
 <p>💜 My name is Letícia, but you can call me Le, Lelê or Letty</p>
-<li>🙆🏽‍♀️ Pronouns: she/her</li>
-<li>📌 I'm from São Paulo, Brazil</li>
-<li>👩🏽‍💻 I'm currently working as a Junior Software Engineer for a big three consulting firm</li>
-<li>⚽️ I like to watch soccer and Corinthians is my soccer team</li>
-<li>🙃 A curiosity about me: I love listening to music while doing other things, especially when I'm programming</li>                               
+<p>🙆🏽‍♀️ Pronouns: she/her</p>
+<p>📌 I'm from São Paulo, Brazil</p>
+<p>👩🏽‍💻 I'm currently working as a Junior Software Engineer for a big three consulting firm</p>
+<p>⚽️ I like to watch soccer and Corinthians is my soccer team</p>
+<p>🙃 A curiosity about me: I love listening to music while doing other things, especially when I'm programming</p>                               
     
 <br>
                                                                                                             
