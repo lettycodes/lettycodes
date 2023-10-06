@@ -1,14 +1,6 @@
-<div align="center">
-<img src="https://cdnb.artstation.com/p/assets/images/images/043/163/227/original/augustin-cart-gif-lofi-final.gif?1636484521" width="50%" height="50%">
-</div>
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8C18F7&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%99%83" alt="Typing SVG" /></a>
+  <img width="250" src="https://cdn.pixilart.com/photos/orginal/6cd473f2bd5f695.gif">
 </p>
-
-<div>
-<img src=https://i.imgur.com/yoDh20I.gif" width="30%" height="30%" align="right">
-</div>
 
 <br>
 <br>                                          
@@ -51,9 +43,3 @@
   <a href ="https://www.linkedin.com/in/silva-leticia/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 </div>
-
-<br>
-                                                                                                                                                  
-<br>
-                                                                                                                                                  
-
