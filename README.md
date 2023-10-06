@@ -2,10 +2,6 @@
   <img src="https://cdn.pixilart.com/photos/orginal/6cd473f2bd5f695.gif">
 </p>
 
-<br>
-<br>                                          
-<br>                                                               
-  
 <li>💜 My name is Letícia, but you can call me Le, Lelê or Letty</li>
 <li>🙆🏽‍♀️ Pronouns: she/her</li>
 <li>📌 I'm from São Paulo, Brazil</li>
