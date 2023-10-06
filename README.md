@@ -2,15 +2,13 @@
   <img src="https://cdn.pixilart.com/photos/orginal/6cd473f2bd5f695.gif">
 </p>
 
-<li>💜 My name is Letícia, but you can call me Le, Lelê or Letty</li>
+<p>💜 My name is Letícia, but you can call me Le, Lelê or Letty</p>
 <li>🙆🏽‍♀️ Pronouns: she/her</li>
 <li>📌 I'm from São Paulo, Brazil</li>
 <li>👩🏽‍💻 I'm currently working as a Junior Software Engineer for a big three consulting firm</li>
 <li>⚽️ I like to watch soccer and Corinthians is my soccer team</li>
 <li>🙃 A curiosity about me: I love listening to music while doing other things, especially when I'm programming</li>                               
     
-<br>
-<br>
 <br>
                                                                                                             
 </p>
