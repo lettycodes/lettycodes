@@ -2,7 +2,7 @@
   <img src="https://cdn.pixilart.com/photos/orginal/6cd473f2bd5f695.gif">
 </p>
 
-<p>💜 My name is Letícia, but you can call me Le, Lelê or Letty</p>
+<p>💜 My name is Letícia, but you can call me Le, Lelê or Lety</p>
 <p>🙆🏽‍♀️ Pronouns: she/her</p>
 <p>📌 I'm from São Paulo, Brazil</p>
 <p>⚽️ I like to watch soccer and Corinthians is my soccer team</p>
